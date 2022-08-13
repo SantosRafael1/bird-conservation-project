@@ -1,0 +1,9 @@
+body {
+    background-color: lightskyblue;
+    font-family: 'Helvetica', sans-serif;
+    color: purple;
+}
+
+ol li {
+    color: red;
+}
